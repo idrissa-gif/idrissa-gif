@@ -9,15 +9,13 @@
 
 - 🤝 I’m looking for help with [starting my Own Company of Tech](https://shorturl.at/afIO1)
 
-- 👨‍💻 All of my projects are available at [https://magdelinehuang.com/changelog/](https://magdelinehuang.com/changelog/)
-
-- 📝 I regularly write articles on [https://magdelinehuang.com/changelog/](https://magdelinehuang.com/changelog/)
+- 👨‍💻 All of my projects are available at []()
 
 - 💬 Ask me about **IT support**
 
 - 📫 How to reach me **idrissa@iut-dhaka.edu**
 
-- 📄 Know about my experiences [https://magdelinehuang.com/changelog/](https://magdelinehuang.com/changelog/)
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **I am Happy**
 
