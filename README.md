@@ -20,9 +20,7 @@
 - ⚡ Fun fact **I am Happy**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/idrissa_242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="idrissa_242" height="30" width="40" /></a>
-</p>
+
 
 [![Idrissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrissa-gif)](https://github.com/idrissa-gif/github-readme-stats)
 
