@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **IT support**
 
-- 📫 How to reach me **idrissa.dicko@universite-paris-saclay.fr**
+- 📫 How to reach me **idrissamdicko@gmail.com**
 
 - 📄 Know about my experiences []()
 
